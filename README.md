@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi!! <img src="https://github.com/byagmur/byagmur/blob/main/star.gif" alt="star" width="42">
 
 <!--
 **byagmur/byagmur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
