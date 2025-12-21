@@ -5,7 +5,7 @@
 />
 
 ### 🌸 about me
-> frontend • mobile developer  
+> junior frontend • mobile developer  
 
 ### currently work with,
 <p>
