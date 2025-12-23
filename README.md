@@ -7,13 +7,13 @@
 ### 🌸 about me
 > junior frontend • mobile developer  
 
-### currently work with,
+#### currently work with,
 <p>
   <img src="https://img.shields.io/badge/Flutter-1C1C1E?style=for-the-badge&logo=flutter&logoColor=02569B" />
   <img src="https://img.shields.io/badge/Nylo-1C1C1E?style=for-the-badge&logo=flutter&logoColor=4A90E2" />
 </p>
 
-### technologies i use, 
+#### technologies i use, 
 <p> 
   <img src="https://img.shields.io/badge/JavaScript-1C1C1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-1C1C1E?style=for-the-badge&logo=typescript&logoColor=3178C6" />
