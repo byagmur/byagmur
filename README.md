@@ -1,8 +1,8 @@
-<img
+<!-- <img
   align="right"
   height="180"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=byagmur&layout=compact&theme=dark&hide_border=true&border_radius=0"
-/>
+/> -->
 
 ### 🌸 about me
 > junior frontend • mobile developer  
