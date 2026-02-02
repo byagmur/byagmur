@@ -5,13 +5,7 @@
 /> -->
 
 ### 🌸 about me
-> junior frontend • mobile developer  
-
-#### currently work with,
-<p>
-  <img src="https://img.shields.io/badge/Flutter-1C1C1E?style=for-the-badge&logo=flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/Nylo-1C1C1E?style=for-the-badge&logo=flutter&logoColor=4A90E2" />
-</p>
+> junior frontend developer  
 
 #### technologies i use, 
 <p> 
@@ -26,4 +20,6 @@
   <img src="https://img.shields.io/badge/SQL-1C1C1E?style=for-the-badge&logo=postgresql&logoColor=336791" />
   <img src="https://img.shields.io/badge/MSSQL-1C1C1E?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927" />
   <img src="https://img.shields.io/badge/PHP-1C1C1E?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Flutter-1C1C1E?style=for-the-badge&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/Nylo-1C1C1E?style=for-the-badge&logo=flutter&logoColor=4A90E2" />
 </p>
