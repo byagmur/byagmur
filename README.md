@@ -4,7 +4,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=byagmur&layout=compact&theme=dark&hide_border=true&border_radius=0"
 /> -->
 
-### 🌸 about me
+### about me
 > junior frontend developer  
 
 #### technologies i use, 
